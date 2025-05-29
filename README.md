@@ -1,4 +1,4 @@
-# lol-cv
+# lol-cv !
 It is exactly what you think it is.
 - [x] Backend
 - [x] Frontend
